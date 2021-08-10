@@ -1,0 +1,14 @@
+{
+  "Server": [{
+    "ConfigSymbols": [{
+      "Symbol": "TATNP",
+      "Sector": "0"
+    },
+      {
+      "Symbol": "GMKN",
+      "Sector": "0"
+    }
+    ]
+  }
+  ]
+}
